@@ -2,8 +2,8 @@
 
 Para esse desafio, reproduzi as soluções guiadas pelo especialista Venilton Falvo Jr - Tech Lead na DIO 
 
-Para tanto, optei desenvolver esse desafio na IDE VSCode, por estar mais familiarizada com essa ferramenta de trabalho
-
+Para tanto, optei pelos padrões de projeto em java puro e desenvolvi as
+soluções desse desafio em VSCode, por estar mais familiarizada com essa ferramenta de trabalho
 
 ## 1.0 Conceito de Singleton
 Singleton especifica que apenas uma instância da classe pode existir, e esta será utilizada por toda a aplicação. Dessa forma temos apenas um ponto de acesso central a esta instância da classe (Fonte: https://www.opus-software.com.br/singleton-design-pattern/#).
